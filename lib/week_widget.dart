@@ -1,6 +1,6 @@
-import 'package:calendar_widget/calendar_widget.dart';
-import 'package:calendar_widget/day_widget.dart';
-import 'package:calendar_widget/week_of_year_widget.dart';
+import 'calendar_view.dart';
+import 'day_widget.dart';
+import 'week_of_year_widget.dart';
 import 'package:flutter/widgets.dart';
 
 class WeekWidget extends StatelessWidget {

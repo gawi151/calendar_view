@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.calendar_widget">
+    package="pl.gawronlucas.calendarview.example.example">
    <application
-        android:label="calendar_widget"
+        android:label="example"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
