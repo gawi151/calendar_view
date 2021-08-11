@@ -1,7 +1,7 @@
-import 'package:calendar_widget/date_time/week_of_year.dart';
-import 'package:calendar_widget/date_time/year_month.dart';
-import 'package:calendar_widget/day_widget.dart';
-import 'package:calendar_widget/week_of_year_widget.dart';
+import 'date_time/week_of_year.dart';
+import 'date_time/year_month.dart';
+import 'day_widget.dart';
+import 'week_of_year_widget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';

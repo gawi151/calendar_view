@@ -1,9 +1,8 @@
-import 'package:calendar_widget/calendar_widget.dart';
+import 'package:calendar_view/calendar_view.dart';
 import 'package:flutter/material.dart';
 
-import 'date_time/week_of_year.dart';
-import 'date_time/year_month.dart';
-import 'day_widget.dart';
+import 'package:calendar_view/date_time/year_month.dart';
+import 'package:calendar_view/day_widget.dart';
 
 void main() {
   runApp(MyApp());

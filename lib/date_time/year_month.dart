@@ -1,4 +1,4 @@
-import 'package:calendar_widget/date_time/week_of_year.dart';
+import 'week_of_year.dart';
 import 'date_time_extensions.dart';
 
 class YearMonth {

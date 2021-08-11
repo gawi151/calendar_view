@@ -1,7 +1,6 @@
 import 'dart:math';
 
-import 'package:calendar_widget/date_time/week_of_year.dart';
-
+import 'week_of_year.dart';
 import 'month_day.dart';
 import 'year_month.dart';
 

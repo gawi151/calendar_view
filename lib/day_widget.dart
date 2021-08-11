@@ -1,5 +1,5 @@
-import 'package:calendar_widget/date_time/month_day.dart';
-import 'package:calendar_widget/date_time/year_month.dart';
+import 'date_time/month_day.dart';
+import 'date_time/year_month.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
